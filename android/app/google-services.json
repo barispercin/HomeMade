@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919456186252",
+    "project_id": "milanbaros-5dc9c",
+    "storage_bucket": "milanbaros-5dc9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919456186252:android:32dfda94058b6deb5ba0a9",
+        "android_client_info": {
+          "package_name": "com.example.milanbaros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919456186252-qo66jr11h4qihfiotnh475ie87gmkgsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.milanbaros",
+            "certificate_hash": "bc59a42ff5470d16673c8460e44b6ede43ab0e96"
+          }
+        },
+        {
+          "client_id": "919456186252-6uhcquo8mnqnukqit32jmrb7t505m1bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9nU3Y23f_eLkbqrjb5l_YTKGeG2jbYe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919456186252-6uhcquo8mnqnukqit32jmrb7t505m1bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
